@@ -34,7 +34,7 @@ jobs:
                   npm install
             - name: "运行 【东瓜天天加速】"
               run: |
-                  node Ponysitters_Club_Season.js
+                  node Ponysitters_Club_Season2.JS
               env:
                   JD_COOKIE: ${{ secrets.JD_COOKIE }}
                   SYNCURL: https://github.com/xDoupi/rr011/raw/main/mm01/j0d_sp0eed.js
