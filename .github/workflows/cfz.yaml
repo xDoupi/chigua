@@ -30,7 +30,7 @@ jobs:
                   CFZURL: ${{ secrets.CFZURL }}
                   CFZHD: ${{ secrets.CFZHD }}
 		  CFZSBHD: ${{ secrets.CFZSBHD }}
-                  SYNCURL: https://github.com/xDoupi/rr011/raw/main/mm01/j0d_sp0eed.js
+                  SYNCURL: https://github.com/xDoupi/rr011/raw/main/mm01/cfz.js
                   SCKEY: ${{ secrets.SCKEY }}
                   BARK_PUSH: ${{ secrets.BARK_PUSH }}
                   PUSH_KEY: ${{ secrets.PUSH_KEY }}
