@@ -29,7 +29,6 @@ jobs:
               env:
                   CFZURL: ${{ secrets.CFZURL }}
                   CFZHD: ${{ secrets.CFZHD }}
-		  CFZSBHD: ${{ secrets.CFZSBHD }}
                   SYNCURL: https://github.com/xDoupi/rr011/raw/main/mm01/cfz.js
                   SCKEY: ${{ secrets.SCKEY }}
                   BARK_PUSH: ${{ secrets.BARK_PUSH }}
